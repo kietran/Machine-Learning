@@ -26,6 +26,7 @@ From the competition [homepage](http://www.kaggle.com/c/titanic-gettingStarted).
 *   Cleaning Data
 *   Handle Data with null values
 *   Exploring Data through Visualizations with Matplotlib
+*   Feature Engineering
 
 #### Data Analysis
 *    Supervised Machine learning Techniques:
@@ -39,4 +40,4 @@ From the competition [homepage](http://www.kaggle.com/c/titanic-gettingStarted).
 Competition Website: http://www.kaggle.com/c/titanic-gettingStarted
 
 ### Achievement of this Notebook
-I evaluated my model on the test set using accuracy. My model achieved an accuracy of 77,3% on the test set. Ranking in the top 63% of the highest-scoring individuals.
+I evaluated my model on the test set using accuracy. My model achieved an accuracy of 77,8% on the test set. Ranking in the top 28% of the highest-scoring individuals.
